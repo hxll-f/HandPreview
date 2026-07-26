@@ -1,7 +1,7 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Hand Preview
 --- MOD_ID: handpreview
---- MOD_AUTHOR: [Toeler]
+--- MOD_AUTHOR: [Toeler x HxLL]
 --- MOD_DESCRIPTION: A utility mod to list the hands that you can make. v1.0.0
 
 ----------------------------------------------
